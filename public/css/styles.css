@@ -1,11 +1,39 @@
 body {
-	background-color: #2f83cc;
+	color:white;
+	background-color: black;
 }
 
 a {
-	color:black;
+	color:white;
+	font-weight:bold;
 }
 
 a:hover {
 	background-color:yellow;
+}
+
+#mars {
+	color: #b21c00;
+}
+
+#source {
+	color: white;
+	font-size: 0.8em;
+}
+
+
+h1 {
+	color: white;
+}
+
+h2 {
+	text-shadow: 2px 2px green;
+}
+
+header {
+	background-color: grey;
+}
+
+footer {
+	background-color: grey;
 }
